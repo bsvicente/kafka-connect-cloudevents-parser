@@ -1,0 +1,12 @@
+{
+  "datacontenttype": "application/json",
+  "operatoraccount": "JOB1",
+  "subject": "id12345",
+  "specversion": "1.0",
+  "id": "GUID12345",
+  "type": "custormer-create",
+  "time": "2023-03-30T00:00:00.000000Z",
+  "source": "/api",
+  "dataschema": "schema-registry/api",
+  "data": null
+}
